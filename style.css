@@ -1,13 +1,13 @@
 body
 {
     font-family: Arial;
-    background: #6a5acd;
+    background: #6A5ACD;
     margin: 0;
 }
 
 .container
 {
-	background-color: #6a5acd;
+	background-color: #6A5ACD;
     margin: 85px;
     display: grid;
     grid-template-columns: 5fr 5fr;
