@@ -59,15 +59,9 @@ img {
     color: #8707FF;
 }
 
-@media screen and (max-width:767px){
+@media (max-width:767px){
 .container
 {
-	background-color: #2E3440;
     margin: 70px;
-    display: grid;
-    grid-template-columns: 5fr 5fr;
-    grid-gap: 2em;
-    grid-auto-rows: minmax(auto, auto);
-    
 }
 }
