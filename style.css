@@ -12,8 +12,6 @@ body
     display: grid;
     grid-template-columns: 5fr 5fr;
     grid-gap: 2em;
-    grid-auto-rows: minmax(auto, auto);
-    
 }
 
 .container >div{
@@ -57,11 +55,4 @@ img {
 .font 
 {
     color: #8707FF;
-}
-
-@media (max-width:767px){
-.container
-{
-    margin: 70px;
-}
 }
