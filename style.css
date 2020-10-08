@@ -7,7 +7,7 @@ body
 
 .container
 {
-	background-color: #6A5ACD;
+	background-color: #eee;
     margin: 85px;
     display: grid;
     grid-template-columns: 5fr 5fr;
