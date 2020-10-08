@@ -14,7 +14,7 @@ body
     grid-gap: 2em;
 }
 
-.container >div{
+.container {
     background: #eee;  
     border: 1px solid #333;
     box-shadow: 3px 3px 3px black;
