@@ -12,15 +12,8 @@ body
     display: grid;
     grid-template-columns: 5fr 5fr;
     grid-gap: 2em;
-	 background: #eee;  
+	
 }
-
-.container {
-    background: #eee;  
-    border: 1px solid #333;
-    box-shadow: 3px 3px 3px black;
-}
-
 
 .col-1
 {
